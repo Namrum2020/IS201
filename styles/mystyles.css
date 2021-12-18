@@ -1,0 +1,41 @@
+.mybackground {
+    background-color: lightblue;
+}
+
+.myAlignCenter {
+    text-align: center;
+}
+
+.myBold {
+    font-weight: bold;
+}
+}.body{
+    background-color: lightblue;
+}
+
+.myHeading{
+    color: lightblue;
+    font-family: verdana;
+}
+
+.common{
+    /*background-color: rgb(90, 143, 240);
+    border: solid 3px rgb(0, 0, 0);*/
+    position: absolute;
+}
+
+a:link {
+    color: rgb(14, 14, 14);
+    text-decoration: none;
+} 
+  
+a:visited {
+    color: rgb(14, 14, 14);
+    text-decoration: none;
+} 
+
+a:hover {
+    color: darkblue;
+    text-decoration: none;
+  }
+  
